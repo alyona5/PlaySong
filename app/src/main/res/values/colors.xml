@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--?xml version="1.0" encoding="UTF-8"?-->
+
+    <!-- Primary color of the app (background for app) -->
+    <color name="primaryColor">#011627</color>
+
+    <!-- primary light color -->
+    <color name="primaryLightColor">#2a3c4f</color>
+
+    <!-- Text color inside the category -->
+    <color name="categoryTextColor">#ffffff</color>
+
+    <!-- Secondary color of the app (buttons) -->
+    <color name="secondaryColor">#ff8b6b</color>
+
+    <!-- Recent category background color -->
+    <color name="RecentColor">#E71D36</color>
+
+    <!-- Music category background color -->
+    <color name="MusicColor">#2EC4B6</color>
+
+    <!-- Radio category background color -->
+    <color name="RadioColor">#88B420</color>
+
+    <!-- Store category background color -->
+    <color name="StoreColor">#FF9F1C</color>
+
+</resources>
+

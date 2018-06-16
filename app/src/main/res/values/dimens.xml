@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Image width -->
+    <dimen name="image_width">275dp</dimen>
+
+    <!-- Image height -->
+    <dimen name="image_height">180dp</dimen>
+
+    <!-- Padding for the category title -->
+    <dimen name="category_margin">8dp</dimen>
+
+    <!-- List padding -->
+    <dimen name="list_padding">16dp</dimen>
+
+    <!--Margin top for the image -->
+    <dimen name="image_margin_top">16dp</dimen>
+
+    <!--Margin bottom for the image -->
+    <dimen name="image_margin_bottom">8dp</dimen>
+
+    <!-- Category width -->
+    <dimen name="category_layout_width">130dp</dimen>
+
+    <!-- Category height -->
+    <dimen name="category_layout_height">130dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Divider height -->
+    <dimen name="item_divider_height">2dp</dimen>
+
+    <!-- Menu width -->
+    <dimen name="menu_layout_width">60dp</dimen>
+
+    <!-- Menu height -->
+    <dimen name="menu_layout_height">30dp</dimen>
+
+    <!-- Text size for categories -->
+    <dimen name="category_text_size">21sp</dimen>
+
+    <!-- Menu button width -->
+    <dimen name="button_width">100dp</dimen>
+
+    <!-- Menu button height -->
+    <dimen name="button_height">40dp</dimen>
+
+    <!--Text size 1 -->
+    <dimen name="text_size1">17sp</dimen>
+
+    <!-- Text size 2 -->
+    <dimen name="text_size2">15sp</dimen>
+
+</resources>

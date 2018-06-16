@@ -1,0 +1,20 @@
+<resources>
+    <!-- Title of the application [CHAR LIMIT=20] -->
+    <string name="app_name">PlaySong</string>
+
+    <!-- Title of the category for the albums [CHAR LIMIT=10] -->
+    <string name="Albums">Albums</string>
+
+    <!-- Title for the musci list category [CHAR LIMIT=20] -->
+    <string name="Music">Music</string>
+
+    <!-- Title for the category of radio [CHAR LIMIT=10] -->
+    <string name="Radio">Radio</string>
+
+    <!-- Title for the streaming category [CHAR LIMIT=20] -->
+    <string name="Store">Store</string>
+
+    <!-- Title for the recent category [CHAR LIMIT=20] -->
+    <string name="Recent">Recent</string>
+
+</resources>

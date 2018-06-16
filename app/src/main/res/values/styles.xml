@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryLightColor</item>
+        <item name="colorPrimaryDark">@color/primaryColor</item>
+    </style>
+
+    <!-- Style for categories-->
+    <style name="CategoryStyle">
+        <item name="android:layout_width">@dimen/category_layout_width</item>
+        <item name="android:layout_height">@dimen/category_layout_height</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:textColor">@color/categoryTextColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/category_text_size</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:layout_margin">@dimen/category_margin</item>
+    </style>
+
+    <!-- Style for the menu items -->
+    <style name="MenuStyle">
+        <item name="android:layout_width">@dimen/menu_layout_width</item>
+        <item name="android:layout_height">@dimen/menu_layout_height</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:textColor">@color/categoryTextColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:layout_margin">@dimen/category_margin</item>
+    </style>
+</resources>

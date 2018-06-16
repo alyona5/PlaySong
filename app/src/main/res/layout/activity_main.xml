@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryColor"
+    android:orientation="vertical"
+    tools:context="com.example.android.playsong.MainActivity">
+
+    <ImageView
+        android:layout_width="@dimen/image_width"
+        android:layout_height="@dimen/image_height"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/image_margin_bottom"
+        android:layout_marginTop="@dimen/image_margin_top"
+        android:src="@drawable/playsong5" />
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/Recent"
+                style="@style/CategoryStyle"
+                android:background="@drawable/recent_round_corner"
+                android:text="@string/Recent" />
+
+            <TextView
+                android:id="@+id/Music"
+                style="@style/CategoryStyle"
+                android:background="@drawable/music_round_corner"
+                android:text="@string/Music" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/Radio"
+                style="@style/CategoryStyle"
+                android:background="@drawable/radio_round_corner"
+                android:text="@string/Radio" />
+
+            <TextView
+                android:id="@+id/Store"
+                style="@style/CategoryStyle"
+                android:background="@drawable/store_round_corner"
+                android:text="@string/Store" />
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>
